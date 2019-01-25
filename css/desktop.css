@@ -1,0 +1,88 @@
+@media only screen and (min-width:800px) {
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+      font-size: 30px;     
+    text-align: center;
+}
+.main{
+    height: 100%;
+    width: 100%;
+}
+.one{
+    height: 33.33%;
+    width: 100%;
+    background-color: red;
+    vertical-align: middle;
+}
+.two{
+    width: 100%;
+    height: 50%;
+    background-color: green;
+}
+.three{
+    width: 50%;
+    height: 50%;  
+    float: left;
+    background-color: purple;   
+}
+.four{
+      width: 50%;
+    height: 50%;  
+    float: left;
+    background-color: pink;   
+}
+.deskleft{
+    width: 75%;
+    height: 66.66%;
+    float: left;
+}
+.five{
+    height: 66.66%;
+    width: 25%;
+    background-color:blue;
+    float:left;
+}
+    .sone{
+        width: 25%;
+        height: 20%;
+        float: left;
+        background-color: aqua;
+        
+    }  
+    .stwo{
+        width: 75%;
+        height: 20%;
+        float: left;
+        background-color: orange;
+      
+    }
+    .sthree{
+        width: 100%;
+        height: 50%;
+        background-color: orangered; 
+        clear: both;
+    }
+    .sfour{
+        width: 33.33%;
+        height: 30%;
+        background-color: red;
+        float: left;
+    }
+    .sfive{
+        width: 33.33%;
+        height: 30%;
+        background-color: green;
+        float: left;
+    }
+    .ssix{
+             width: 33.33%;
+        height: 30%;
+        background-color:blue;
+        float: left;
+    }
+    .sseven{
+        display: none;
+    }
+}

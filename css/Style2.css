@@ -1,0 +1,52 @@
+@media (max-width: 1400px){ 
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.main{
+    height: 100%;
+    width: 100%;
+}
+.one{
+   width: 25%;
+    height: 15%;
+    background-color: orange;
+    float: left;
+}
+.two{
+    width: 75%;
+    height: 15%;
+    background-color: orangered;
+    float: left;
+}
+    .three{
+        height: 15%;
+        width: 100%;
+        background-color: purple;
+        clear: both;
+    }
+    .four{
+        height: 35%;
+        width: 100%;
+        background-color: green;
+    }
+    .five{
+        width: 33.33%;
+        height: 35%;
+        background-color: red;
+        float: left;
+    }
+    .six{
+        width: 33.33%;
+        height: 35%;
+        background-color: blue;
+        float: left;
+    }
+    .seven{
+        width: 33.33%;
+        height: 35%;
+        float: left;
+        background-color: aqua;
+    }
+}
